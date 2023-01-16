@@ -1,6 +1,4 @@
 # Ted Lawson
-from typing import List
-
 
 def main():
     return
